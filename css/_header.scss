@@ -1,0 +1,215 @@
+@import "variable.scss";
+
+/*↓header__pc↓*/
+@media(min-width: 480px) {
+  .header {
+    background: rgba(255, 255, 255, 0.70);
+    box-shadow: 0 2px 10px 0 #888888;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    opacity: 0.8;
+    position: fixed;
+    z-index: 1;
+    &__flex-box {
+      display: flex;
+      align-items: center;
+      img{
+        margin: 20px 0 20px 60px;
+        width: 300px;
+        max-width: 300px;
+        &:hover{
+          opacity: 0.6;
+          transition: 0.5s;
+        }
+      }
+    }
+  //  &__logo {
+    //  margin: 20px 0 20px 60px;
+      //width: 300px;
+    //}
+    ///&__logo-item {
+      //max-width: 300px;
+    //}
+    &__menu{
+      margin: 20px 0 20px 310px;
+      .header__each-menu {
+        font-family: $font-family_Roboto;
+        font-size: 18px;
+        letter-spacing: 2.4px;
+      }
+
+      .header__each-menu:hover {
+        font-family: $font-family_Roboto;
+        font-size: 18px;
+        color: $blue;
+        transition: color 0.5s;
+      }
+
+      .header__sns-item {
+        height: 30px;
+        padding: 0 10px;
+        width: 30px;
+        transition: 0.5s;
+        color: $blue;
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color:#33B3CA;
+    font-size: 16px;
+  }
+
+  ul {
+    display: flex;
+    list-style-type: none;
+  }
+
+  li {
+    padding: 0 15px;
+  }
+
+  .sns-btn__each{
+    color:#33B3CA;
+  }
+
+  .header-sns {
+    margin: 20px 55px 20px 0;
+    .sns-btn__each{
+      color:#33B3CA;
+    }
+    &__item:hover {
+      opacity: 0.6;
+    }
+  }
+
+  .cp_cont{
+    display:none;
+  }
+}
+/*↑header__pc↑*/
+
+
+/*↓header__sp↓*/
+@media(max-width: 480px){
+  *, *:before, *:after {
+  	padding: 0;
+  	margin: 0;
+  	box-sizing: border-box;
+  }
+
+  ol, ul {
+  	list-style: none;
+  }
+
+  a {
+  	text-decoration: none;
+  	color: inherit;
+    display: none;
+  }
+
+  .cp_cont {
+    position: relative;
+    z-index: 2;
+  }
+
+  .cp_cont img{
+    margin: 13px 10px 10px 50px;
+    display: inline-block;
+  }
+
+  .cp_offcm01 {
+  	position: fixed;
+  	top: 20px;
+  	right: 20px;
+  	display: inline-block;
+  }
+
+  /* menu */
+  .cp_offcm01 .cp_menu {
+  	position: fixed;
+  	top: 0;
+  	right: -100vw;
+  	width: 250px;
+  	height: 100%;
+  	cursor: pointer;
+  	-webkit-transition: 0.53s transform;
+  	        transition: 0.53s transform;
+  	-webkit-transition-timing-function: cubic-bezier(.38,.52,.23,.99);
+  	        transition-timing-function: cubic-bezier(.38,.52,.23,.99);
+  	background-color: #30B3C9;
+  	opacity: 0.8;
+  }
+
+  .cp_offcm01 .cp_menu ul {
+  	margin: 0;
+  	padding: 0;
+  }
+
+  .cp_offcm01 .cp_menu li {
+  	list-style: none;
+  }
+
+  .cp_offcm01 .cp_menu li a {
+  	display: block;
+  	padding: 20px;
+  	text-decoration: none;
+  	color: #ffffff;
+  	border-bottom: 1px solid #ffffff;
+  }
+
+  .cp_offcm01 #cp_toggle01 {
+  	position: absolute;
+  	display: none;
+  	opacity: 0;
+  }
+
+  .cp_offcm01 #cp_toggle01:checked ~ .cp_menu {
+  	-webkit-transform: translateX(-100vw);
+  	        transform: translateX(-100vw);
+  }
+
+  /* menu toggle */
+  .cp_offcm01 #cp_toggle01 ~ label {
+  	display: block;
+  	padding: 0.5em;
+  	cursor: pointer;
+  	-webkit-transition: 0.5s transform;
+  	        transition: 0.5s transform;
+  	-webkit-transition-timing-function: cubic-bezier(.61,-0.38,.37,1.27);
+  	        transition-timing-function: cubic-bezier(.61,-0.38,.37,1.27);
+  	text-align: center;
+  	color: #333333;
+    opacity: 0.6;
+  }
+
+  .cp_offcm01 #cp_toggle01:checked ~ label {
+  	-webkit-transform: translateX(-250px);
+  	        transform: translateX(-250px);
+  }
+
+  .cp_offcm01 #cp_toggle01 ~ label::before {
+  	font-family: 'FontAwesome';
+  	content: '\f0c9';
+  	font-size: 2em;
+    color: $black;
+  }
+
+  .cp_offcm01 #cp_toggle01:checked ~ label::before {
+  	content: '\f00d';
+  }
+
+  /* contents */
+  .cp_contents {
+  	color: #333333;
+  	text-align: center;
+  }
+
+  .bumburger-font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+}
+/*↑header__sp↑*/
