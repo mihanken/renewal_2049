@@ -15,7 +15,7 @@
         <img class="home-about__img" src="https://mihanken.com/wp-content/themes/mihanken/images/miura-hantou.jpg"  alt="">
         <div>
           <p class="home-about__container--txt text">
-            三浦半島研究会は、あらゆる営みを記録するために制作活動をしています。
+            4000Mabo研究会は、あらゆる営みを記録するために制作活動をしています。
           </p>
           <a href="https://mihanken.com/about" class="btn">
             MORE
