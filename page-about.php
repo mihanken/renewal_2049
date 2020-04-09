@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="hero__section about__hero-img">
   <h1 class="page-title">
-    ABOUT
+    UNKO MORIMORI
   </h1>
 </div>
 <div class="wrapper">
