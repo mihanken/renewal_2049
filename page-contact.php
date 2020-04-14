@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="hero__section contact__hero-img">
   <h1 class="page-title">
-    CONTACT
+    卍x 4000Mabo x卍
   </h1>
 </div>
 <div class="wrapper">
