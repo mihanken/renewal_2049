@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="hero__section works__hero-img">
   <h1 class="page-title">
-    WORKS
+    4000Mabo
   </h1>
 </div>
 <div class="works" style="width: 70%; display: flex; flex-wrap: wrap; margin: 150px auto 0; padding: 0 0 0 50px;">
