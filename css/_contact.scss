@@ -20,7 +20,7 @@
 // }
 
 .contact-hero-img {
-  background: url(../assets/contact__hero.jpg) center center / cover no-repeat;
+  background: url(../images/contact__hero.jpg) center center / cover no-repeat;
 }
 
 .section__lede {
@@ -58,7 +58,7 @@
 /*↓contact__sp↓*/
 @media(max-width: 480px) {
   .contact__hero-img {
-    background: url(../assets/contact__hero.jpg) -30px center / cover no-repeat;
+    background: url(../images/contact__hero.jpg) -30px center / cover no-repeat;
   }
 
   .sns-btn {
