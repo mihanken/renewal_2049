@@ -726,12 +726,11 @@ li {
 /*↓contact__sp↓*/
 @media (max-width: 480px) {
   .contact__hero-img {
-    background: url(../assets/contact__hero.jpg) -30px center/cover no-repeat; }
+    background: url(../images/contact__hero.jpg) -30px center/cover no-repeat; }
 
   .sns-btn {
     padding-right: 20px;
     margin-bottom: 80px; } }
-
 
 .contact__sns-btn--ul{
   width: 230px;
