@@ -118,10 +118,10 @@ a {
 .page-title {
   font-weight: lighter;
   letter-spacing: 7px;
-  color: #393E46;
+  color: #FFF;
   position: absolute;
   top: 50%;
-  font-size: 35px;
+  font-size: 50px;
   text-align: center;
   font-family: "Roboto", sans-serif;
   display: inline-block;
