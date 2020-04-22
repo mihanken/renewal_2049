@@ -21,7 +21,7 @@
           mihanken@gmail.com
         </li>
           <li class="contact__sns-btn--li">
-            <a class="contact__sns-btn--li--link"　href="https://www.instagram.com/ycu_mihanken/">
+            <a class="contact__sns-btn--li--link" href="https://www.instagram.com/ycu_mihanken/">
               <span class="fab fa-instagram fa-2x sns-btn__each"></span>
               @ycu_mihanken
             </a>
