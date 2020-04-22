@@ -704,11 +704,18 @@ li {
 .contact__hero-img {
   background: url(../images/contact__hero.jpg) center center/cover no-repeat; }
 
+.contact__text-box{
+  width: 83%;
+  margin: 0 auto;
+}
+
 .section__lede {
   text-align: center;
   margin: 80px 0; }
   .section__lede p {
-    line-height: 30px; }
+    line-height: 30px;
+    margin-bottom: 10px;
+   }
 
 .sns-btn {
   display: flex;

@@ -7,12 +7,14 @@
 <div class="wrapper">
   <main>
     <section id="open-initiator" class="section__lede">
-      <p class="text">
-        下記の連絡先より、ご都合のよい方法でかまいません。
-      </p>
-      <p class="text">
-        制作の依頼・ご相談などお気軽にお問い合わせください。
-      </p>
+      <div class="contact__text-box">
+        <p class="text">
+          下記の連絡先より、ご都合のよい方法でかまいません。
+        </p>
+        <p class="text">
+          制作の依頼・ご相談などお気軽にお問い合わせください。
+        </p>
+      </div>
       <ul class="contact__sns-btn--ul">
         <li class="contact__sns-btn--li">
           <span class="fas fa-envelope-square fa-2x sns-btn__each"></span>
