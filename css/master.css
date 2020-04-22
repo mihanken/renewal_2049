@@ -93,7 +93,7 @@ body {
   text-align: center;
   color: #393E46;
   text-align: center;
-  margin: 150px 0 0 0; }
+  margin: 70px 0 0 0; }
 
 .headline-bar{
   height: 4px;
@@ -120,7 +120,7 @@ a {
   letter-spacing: 7px;
   color: #393E46;
   position: absolute;
-  top: 50%;
+  top: 40%;
   font-size: 35px;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -627,6 +627,8 @@ li {
   width: 70%;
   display: flex;
   flex-wrap: wrap;
+  margin: 70px auto 0;
+  padding: 0 0 0 50px;
 }
 
   .works .works-section {
@@ -827,7 +829,7 @@ li {
 @media(min-width: 481px) {
 
   .works-single__wrapper {
-    margin: 80px auto 0;
+    margin: 70px auto 0;
     width: 70vw;
   }
 
