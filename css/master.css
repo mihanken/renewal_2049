@@ -759,8 +759,12 @@ li {
   margin-top: 0;
 }
 
-.contact__sns-btn--li--link:visited{
+.contact__sns-btn--li--link a{
   color: #33B3CA;
+}
+
+.fa-paper-plane{
+  font-size: 25px;
 }
 
 
