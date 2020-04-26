@@ -18,7 +18,7 @@
         <div class="header-container">
           <div class="header__title">
             <a href="https://mihanken.com">
-              <img class="header__logo header__logo-item" src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/header-logo.png">
+              <img class="header__logo header__logo-item" src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/header-logo.svg">
             </a>
           </div>
           <div class="header__menu">
