@@ -125,7 +125,7 @@ a {
   text-align: center;
   font-family: "Roboto", sans-serif;
   display: inline-block;
-  z-index: 2;
+  z-index: 1;
   text-shadow: 0 0 10px #393E46; }
 
 
