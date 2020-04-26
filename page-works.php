@@ -4,7 +4,7 @@
     4000Mabo
   </h1>
 </div>
-<div class="works" style="width: 70%; display: flex; flex-wrap: wrap; margin: 150px auto 0; padding: 0 0 0 50px;">
+<div class="works">
   <section class="works-section">
     <figure class="works-wrapper">
       <a href="https://mihanken.com/yokosuka-story">
