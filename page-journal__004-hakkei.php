@@ -17,7 +17,7 @@
   </p>
   <div class="works-single__container">
     <div class="works-single__container__content">
-      <?php echo do_shortcode('[ngg src="galleries" ids="5" sortorder="24,34,33,32,31,30,29,28,27,26,25" display="basic_imagebrowser"]'); ?>
+      <?php echo do_shortcode('[ngg src="galleries" ids="5" sortorder="237,247,246,245,244,243,242,241,240,239,238" display="basic_imagebrowser"]'); ?>
     </div>
     <div class="works-single__container__txt text">
       <p>
