@@ -1,10 +1,64 @@
 <?php get_header(); ?>
 <div class="hero__section works__hero-img">
   <h1 class="page-title">
-    4000Mabo
+    WORKS
   </h1>
 </div>
-<div class="works">
+<div class="works" style="width: 70%; display: flex; flex-wrap: wrap; margin: 150px auto 0; padding: 0 0 0 50px;">
+  <section class="works-section">
+    <figure class="works-wrapper">
+      <a href="https://mihanken.com/maguro">
+        <img src="https://mihanken.com/wp-content/themes/mihanken/images/maguro.jpg" class="works-section__img"/>
+      </a>
+      <figcaption class="works-section__text">
+        2019.12.21
+        <br>
+        maguro/MC三浦大根
+      </figcaption>
+    </figure>
+    <div class="category">
+      MUSIC
+    </div>
+    <div class="title-for-sp">
+      maguro/MC三浦大根
+    </div>
+  </section>
+  <section class="works-section">
+    <figure class="works-wrapper">
+      <a href="https://mihanken.com/hamadaisai__2019">
+        <img src="https://mihanken.com/wp-content/themes/mihanken/images/hamadaisai__2019.jpg" class="works-section__img"/>
+      </a>
+      <figcaption class="works-section__text">
+        2019.11.03~04
+        <br>
+        2019年度浜大祭
+      </figcaption>
+    </figure>
+    <div class="category">
+      EVENT
+    </div>
+    <div class="title-for-sp">
+      2019年度浜大祭
+    </div>
+  </section>
+  <section class="works-section">
+    <figure class="works-wrapper">
+      <a href="https://mihanken.com/nantan-ichiba">
+        <img src="https://mihanken.com/wp-content/themes/mihanken/images/nantan-ichiba.jpg" class="works-section__img"/>
+      </a>
+      <figcaption class="works-section__text">
+        2019.08.24
+        <br>
+        南端市場
+      </figcaption>
+    </figure>
+    <div class="category">
+      EVENT
+    </div>
+    <div class="title-for-sp">
+      南端市場
+    </div>
+  </section>
   <section class="works-section">
     <figure class="works-wrapper">
       <a href="https://mihanken.com/yokosuka-story">
