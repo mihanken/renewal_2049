@@ -651,6 +651,9 @@ li {
       height: 100%;
       width: 100%;
       border-radius: 5px; }
+      .works .works-section .works-section__img:hover {
+        opacity: 0.7;
+      }
     .works .works-section .works-section__text {
       bottom: 0;
       transform: translateY(100%);
