@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400|Sawarabi+Gothic" rel="stylesheet">
     <link rel="stylesheet" href="https://mihanken.com/wp-content/themes/mihanken/css/master.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://mihanken.com/wp-content/themes/mihanken/js/fadein.js"></script>
     <title>三浦半島研究会</title>
     <link rel="shortcut icon" href="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/favicon.ico" type="image/vnd.microsoft.icon" />
     <?php wp_head(); ?>

@@ -8,7 +8,7 @@
   <main>
     <section>
       <div class="section_about">
-        <h2 class="section__title">
+        <h2 class="section__title fadein">
           Organization
         </h2>
         <hr class="headline-bar">
@@ -23,52 +23,6 @@
             現在約50名で運営され、三浦半島内でさまざまなクリエイティブを制作しています。
           </p>
         </div>
-        <!-- <div class="section__info"> -->
-          <!-- <dl>
-            <dt>
-              名称
-            </dt>
-            <dd>
-              三浦半島研究会
-            </dd>
-          </dl>
-          <dl>
-            <dt>
-              活動拠点
-            </dt>
-            <dd>
-              金沢八景
-            </dd>
-          </dl>
-          <dl>
-            <dt>
-              お問い合わせ先
-            </dt>
-            <dd>
-              mihanken@gmail.com
-            </dd>
-          </dl>
-          <dl>
-            <dt>
-              活動内容
-            </dt>
-            <dd>
-              <ul>
-                <li>
-                  フリーペーパー「三浦半島ジャーナル」の発行
-                </li>
-                <li>
-                  三浦半島にまつわるクリエイティブ制作
-                </li>
-                <li>
-                  イベントに開催
-                </li>
-                <li>
-                  三浦半島内フィールドワーク
-                </li>
-              </ul>
-            </dd>
-          </dl> -->
           <div class="about">
             <div class="about__flex-box about__flex-box_gray">
               <div class="about__flex-box--head txt">
@@ -108,7 +62,7 @@
   </section>
   <section>
     <div class="section">
-      <h2 class="section__title">
+      <h2 class="section__title fadein">
         Media
       </h2>
       <hr class="headline-bar">

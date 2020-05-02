@@ -7,7 +7,7 @@
 <div class="wrapper">
   <main>
     <section class="home-about">
-      <h2 class="section__title">
+      <h2 class="section__title fadein">
         About
       </h2>
       <hr class="headline-bar">
@@ -24,7 +24,7 @@
       </div>
     </section>
     <section class="home-works">
-      <h2 class="section__title">
+      <h2 class="section__title fadein">
         Works
       </h2>
       <hr class="headline-bar">
@@ -44,7 +44,7 @@
       </a>
     </section>
     <section  class="home-contact">
-      <h2 class="section__title">
+      <h2 class="section__title fadein">
         Contact
       </h2>
       <hr class="headline-bar">

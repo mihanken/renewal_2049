@@ -93,7 +93,7 @@ body {
   text-align: center;
   color: #393E46;
   text-align: center;
-  margin: 70px 0 0 0; }
+  margin: 150px 0 0 0; }
 
 .headline-bar{
   height: 4px;
@@ -110,7 +110,7 @@ a {
 .text{
   font-family: "Noto Sans JP", sans-serif;
   color: #444;
-  letter-spacing: 0.6pt;
+  letter-spacing: 1.87px;
   font-size: 16px;
   line-height: 24px;
 }
@@ -120,7 +120,7 @@ a {
   letter-spacing: 7px;
   color: #393E46;
   position: absolute;
-  top: 40%;
+  top: 50%;
   font-size: 35px;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -415,7 +415,6 @@ a {
         }
         .home-about__img{
           margin: 0 auto;
-          width: 100px
         }
         .home-about__container--txt{
           width: 80%;
@@ -627,8 +626,6 @@ li {
   width: 70%;
   display: flex;
   flex-wrap: wrap;
-  margin: 70px auto 0;
-  padding: 0 0 0 50px;
 }
 
   .works .works-section {
@@ -729,11 +726,12 @@ li {
 /*↓contact__sp↓*/
 @media (max-width: 480px) {
   .contact__hero-img {
-    background: url(../images/contact__hero.jpg) -30px center/cover no-repeat; }
+    background: url(../assets/contact__hero.jpg) -30px center/cover no-repeat; }
 
   .sns-btn {
     padding-right: 20px;
     margin-bottom: 80px; } }
+
 
 .contact__sns-btn--ul{
   width: 230px;
@@ -761,12 +759,8 @@ li {
   margin-top: 0;
 }
 
-.contact__sns-btn--li--link a{
+.contact__sns-btn--li--link:visited{
   color: #33B3CA;
-}
-
-.fa-paper-plane{
-  font-size: 25px;
 }
 
 
@@ -829,7 +823,7 @@ li {
 @media(min-width: 481px) {
 
   .works-single__wrapper {
-    margin: 70px auto 0;
+    margin: 80px auto 0;
     width: 70vw;
   }
 
@@ -927,7 +921,7 @@ li {
     width: 30%;
     height: 68px;
     line-height: 68px;
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
@@ -952,7 +946,7 @@ li {
   .about__flex-box--content {
     height: 68px;
     line-height: 68px;
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
@@ -1011,4 +1005,15 @@ li {
 
 .ngg-simplelightbox img:hover{
   opacity: 0.7;
+}
+
+/*見出しをフワッと表示させるアニメーションのcss*/
+.fadein {
+    opacity : 0;
+    transform : translate(0, 50px);
+    transition : all 500ms;
+}
+.fadein.scrollin {
+    opacity : 1;
+    transform : translate(0, 0);
 }
