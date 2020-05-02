@@ -991,3 +991,24 @@ li {
 .paragraph:first-of-type{
   margin-top: 0;
 }
+
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav .back,
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav .next {
+  background: none;
+}
+
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav a {
+  padding: 7px 34px !important;
+  border-radius: 4px;
+  background: #999;
+}
+
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav a:hover,
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav a:focus {
+  /* opacity: 0.7; */
+  background: none !important;
+}
+
+.ngg-simplelightbox img:hover{
+  opacity: 0.7;
+}
