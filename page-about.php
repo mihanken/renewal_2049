@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="hero__section about__hero-img">
   <h1 class="page-title">
-    UNKO MORIMORI
+    ABOUT
   </h1>
 </div>
 <div class="wrapper">
@@ -63,7 +63,7 @@
   <section>
     <div class="section">
       <h2 class="section__title fadein">
-        Media
+        News
       </h2>
       <hr class="headline-bar">
       <div class="section__flex-box">
@@ -74,13 +74,13 @@
             </a>
             <div class="frame__img">
             </div>
-            <a href="https://zushi-hayama.keizai.biz/headline/137/" target="_blank">
-              <figcaption class="flex-box__item--title">
+            <figcaption class="flex-box__item--title">
+              <a href="https://zushi-hayama.keizai.biz/headline/137/" target="_blank">
                 横浜市立大学生制作の機関誌
                 <br>
                 「三浦半島ジャーナル」で…
-              </figcaption>
-            </a>
+              </a>
+            </figcaption>
             <figcaption class="flex-box__item--date">
               2019.01.20　｜　MEDIA
             </figcaption>
@@ -94,13 +94,13 @@
             <div class="frame__img">
             </div>
             <figcaption>
-              <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
-                <figcaption class="flex-box__item--title">
+              <figcaption class="flex-box__item--title">
+                <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
                   学生が感じた文化の息遣い
                   <br>
                   横浜市大生が「三浦半島ジ…
-                </figcaption>
-              </a>
+                </a>
+              </figcaption>
               <figcaption class="flex-box__item--date">
                 2018.08.10　｜　MEDIA
               </p>

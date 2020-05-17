@@ -8,7 +8,7 @@
   <div class="works-single__heading__flex-box">
     <div class="works-single__heading__title text">
       <h2>
-        横須賀ストーリー<br>Future-funk remix
+        横須賀ストーリー -Future-funk remix-
       </h2>
     </div>
   </div>

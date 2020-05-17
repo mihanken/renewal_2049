@@ -22,7 +22,7 @@
     </div>
     <div class="works-single__container__txt">
       <p class="text">
-        MC三浦大根のソロ曲となりました
+        初のMC三浦大根ソロ曲となった今作。三浦半島各域で撮影を敢行しました。
       </p>
     </div>
     <a href="https://mihanken.com/works" class="btn">

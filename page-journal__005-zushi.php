@@ -8,7 +8,7 @@
   <div class="works-single__heading__flex-box">
     <div class="works-single__heading__title text">
       <h2>
-        三浦半島ジャーナル5<br>逗子号
+        三浦半島ジャーナル005逗子号
       </h2>
     </div>
   </div>

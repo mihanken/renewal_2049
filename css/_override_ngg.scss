@@ -1,0 +1,18 @@
+// 背景の div 要素の見た目を無効化する
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav .back,
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav .next {
+    background: none;
+}
+
+// 中の矢印アイコンを拡張するアプローチで背景を擬似的に再現
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav a {
+  padding: 9px 30px;
+  border-radius: 4px;
+  background: #999;
+}
+
+// hover 時の見た目
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav a:hover,
+.ngg-imagebrowser.default-view .ngg-imagebrowser-nav a:focus {
+  opacity: 0.7;
+}

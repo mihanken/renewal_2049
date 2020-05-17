@@ -4,7 +4,7 @@
     WORKS
   </h1>
 </div>
-<div class="works" style="width: 70%; display: flex; flex-wrap: wrap; margin: 150px auto 0; padding: 0 0 0 50px;">
+<div class="works" style="width: 75%; display: flex; flex-wrap: wrap; margin: 150px auto 0; padding: 0 0 0 50px;">
   <section class="works-section">
     <figure class="works-wrapper">
       <a href="https://mihanken.com/maguro">
@@ -131,10 +131,10 @@
       </figcaption>
     </figure>
     <div class="category">
-      MOVIE
+      MUSIC
     </div>
     <div class="title-for-sp">
-      oncemore 三浦半島
+      oncemore 三浦半島/MC三浦大根と野島ザファッカー
     </div>
   </section>
   <section class="works-section">
@@ -154,7 +154,9 @@
       MOVIE
     </div>
     <div class="title-for-sp">
-      oncemore 三浦半島 making
+      oncemore 三浦半島
+      <br>
+      -making-
     </div>
   </section>
   <section class="works-section">
@@ -311,7 +313,7 @@
       </figcaption>
     </figure>
     <div class="category">
-      FLYER
+      JOURNAL
     </div>
     <div class="title-for-sp">
       三浦半島ジャーナル001
