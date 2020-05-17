@@ -8,7 +8,7 @@
   <div class="works-single__heading__flex-box">
     <div class="works-single__heading__title text">
       <h2>
-        once more 三浦半島 -making-<br><span>/</span>MC三浦大根と野島ザファッカー
+        once more 三浦半島 -making-
       </h2>
     </div>
   </div>

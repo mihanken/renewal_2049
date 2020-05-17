@@ -8,7 +8,7 @@
   <div class="works-single__heading__flex-box">
     <div class="works-single__heading__title text">
       <h2>
-        三浦半島ジャーナル1<br>金沢八景号
+        三浦半島ジャーナル001金沢八景号
       </h2>
     </div>
   </div>
@@ -17,7 +17,7 @@
   </p>
   <div class="works-single__container">
     <div class="works-single__container__content">
-      <?php echo do_shortcode('[ngg src="galleries" sortorder="1,5,4,3,2" ids="1" display="basic_imagebrowser"]'); ?>
+      <?php echo do_shortcode('[ngg src="galleries" ids="1" sortorder="200,204,203,202,201" display="basic_imagebrowser"]'); ?>
     </div>
     <div class="works-single__container__txt text">
       <p>

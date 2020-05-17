@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="hero__section index__hero-img">
   <h1 class="page-title">
-    4000Mabo
+    HOME
   </h1>
 </div>
 <div class="wrapper">
@@ -12,7 +12,7 @@
       </h2>
       <hr class="headline-bar">
       <div class="home-about__container">
-        <img class="home-about__img" src="https://mihanken.com/wp-content/themes/mihanken/images/miura-hantou.svg"  alt="">
+        <img class="home-about__img" src="https://mihanken.com/wp-content/themes/mihanken/images/about.gif"  alt="">
         <div>
           <p class="home-about__container--txt text">
             三浦半島研究会は、あらゆる営みを記録するために制作活動をしています。

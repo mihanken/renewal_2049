@@ -8,7 +8,7 @@
   <div class="works-single__heading__flex-box">
     <div class="works-single__heading__title text">
       <h2>
-        三浦半島研究会2019年度<br>新歓ビラ
+        2019年度新歓ビラ
       </h2>
     </div>
   </div>

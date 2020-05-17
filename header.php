@@ -6,7 +6,7 @@
     <meta name="description" content="三浦半島のあらゆる営みを記録し、三浦半島に新しい文化を残すことをモットーに活動する三浦半島研究会の公式サイトです。">
     <link rel="stylesheet" media="screen and (min-width: 480px)">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400|Sawarabi+Gothic" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://mihanken.com/wp-content/themes/mihanken/css/master.css">
     <title>三浦半島研究会</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -47,6 +47,11 @@
                     CONTACT
                   </a>
                 </li>
+                <li class="header__nav--item">
+                  <a class="header--link_pc" href="https://mihanken.com/qanda">
+                    新入生向けQ&A
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
@@ -65,22 +70,27 @@
             <ul>
               <li>
                 <a href="/">
-                  Top
+                  HOME
                 </a>
               </li>
               <li>
                 <a href="/about">
-                  About
+                  ABOUT
                 </a>
               </li>
               <li>
                 <a href="/works">
-                  Works
+                  WORKS
                 </a>
               </li>
               <li>
                 <a href="/contact">
-                  Contact
+                  CONATACT
+                </a>
+              </li>
+              <li>
+                <a href="/qanda">
+                  新入生向けQ&A
                 </a>
               </li>
             </ul>
