@@ -124,7 +124,7 @@ body {
   color: #444;
   letter-spacing: 1.87px;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 2;
 }
 
 .page-title {
@@ -416,7 +416,7 @@ body {
       letter-spacing: 2.5px;
       color: #33B3CA;
       font-weight: lighter;
-      line-height: 40px;
+      line-height: 2;
       font-size: 18px;
       width: 80%;
       margin: 0 auto;
@@ -867,11 +867,6 @@ li {
   margin: 0 auto 50px;
 }
 
-.works-single__container__txt p {
-  line-height: 25px;
-  margin-bottom: 14px;
-}
-
 @media(min-width: 481px) {
 
   .works-single__wrapper {
@@ -1032,13 +1027,13 @@ li {
   }
 }
 
-.paragraph{
+/* .paragraph{
   margin-top: 30px;
 }
 
 .paragraph:first-of-type{
   margin-top: 0;
-}
+} */
 
 .ngg-imagebrowser.default-view .ngg-imagebrowser-nav .back,
 .ngg-imagebrowser.default-view .ngg-imagebrowser-nav .next {
