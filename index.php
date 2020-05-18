@@ -51,8 +51,7 @@
       <div class="home-contact__container--txt">
         <p class="text paragraph">
           下記の連絡先より、ご都合のよい方法でかまいません。
-        </p>
-        <p class="text paragraph">
+          <br>
           制作のご依頼・ご相談などお気軽にお問い合わせください。
         </p>
       </div>
