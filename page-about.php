@@ -69,13 +69,13 @@
       <div class="section__flex-box">
         <div class="section__flex-box--item">
           <figure>
-            <a href="https://zushi-hayama.keizai.biz/headline/137/" target="_blank">
+            <a href="https://megalodon.jp/2020-0421-1228-00/https://zushi-hayama.keizai.biz:443/headline/137/" target="_blank">
               <img class="flex-box__item--img a__img" src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/media__001.jpg" alt="逗子葉山経済新聞掲載写真">
             </a>
             <div class="frame__img">
             </div>
             <figcaption class="flex-box__item--title">
-              <a href="https://zushi-hayama.keizai.biz/headline/137/" target="_blank">
+              <a href="https://megalodon.jp/2020-0421-1226-07/https://www.townnews.co.jp:443/0501/2018/08/10/444118.html" target="_blank">
                 横浜市立大学生制作の機関誌
                 <br>
                 「三浦半島ジャーナル」で…
