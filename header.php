@@ -47,11 +47,12 @@
                     CONTACT
                   </a>
                 </li>
-                <li class="header__nav--item">
+                <!--以下ページは新歓期間のみの限定公開です-->
+                <!-- <li class="header__nav--item">
                   <a class="header--link_pc" href="https://mihanken.com/qanda">
                     新入生向けQ&A
                   </a>
-                </li>
+                </li> -->
               </ul>
             </div>
           </div>
