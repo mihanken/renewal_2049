@@ -397,6 +397,10 @@ body {
   margin: 0 auto;
   flex-wrap: wrap; }
 
+  .home-key-visual{
+    display: none;
+  }
+
 .home-about {
   margin-bottom: 140px; }
   .home-about__container {
@@ -423,6 +427,16 @@ body {
       text-align: left; }
 
       @media(max-width: 800px){
+        .hero__section{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .home-key-visual{
+          display: block;
+        }
+
         .home-about{
           width: 80%;
           margin: 0 auto;

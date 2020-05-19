@@ -1,8 +1,9 @@
 <?php get_header(); ?>
 <div class="hero__section index__hero-img">
-  <h1 class="page-title">
+  <!-- <h1 class="page-title">
     HOME
-  </h1>
+  </h1> -->
+  <img class="home-key-visual" src="https://mihanken.com/wp-content/themes/mihanken/images/key-visual-logo.png" alt="">
 </div>
 <div class="wrapper">
   <main>
