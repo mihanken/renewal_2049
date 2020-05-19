@@ -47,6 +47,16 @@
                     CONTACT
                   </a>
                 </li>
+                <li class="header__nav--item">
+                  <a class="header--link_pc" href="https://mihanken.com/contact">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="header__nav--item">
+                  <a class="header--link_pc" href="https://mihanken.com/contact">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
                 <!--以下ページは新歓期間のみの限定公開です-->
                 <!-- <li class="header__nav--item">
                   <a class="header--link_pc" href="https://mihanken.com/qanda">
