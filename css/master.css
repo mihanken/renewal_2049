@@ -553,7 +553,8 @@ body {
 
   .section__lede {
     font-size: 16px;
-    line-height: 30px;
+    line-height: 2;
+    padding: 0 10%;
     margin-bottom: 30px; }
   .section__info {
     font-size: 16px;
