@@ -14,7 +14,7 @@
       </p>
       <ul class="contact__sns-btn--ul">
         <li class="contact__sns-btn--li">
-          <span class="fas fa-envelope-square fa-2x sns-btn__each"></span>
+          <span class="fas fa-paper-plane fa-2x sns-btn__each"></span>
           mihanken@gmail.com
         </li>
         <li class="contact__sns-btn--li">
