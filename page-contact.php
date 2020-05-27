@@ -9,8 +9,7 @@
     <section id="open-initiator" class="section__lede">
       <p class="text">
         下記の連絡先より、ご都合のよい方法でかまいません。
-      </p>
-      <p class="text">
+        <br>
         制作の依頼・ご相談などお気軽にお問い合わせください。
       </p>
       <ul class="contact__sns-btn--ul">
