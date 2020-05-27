@@ -15,24 +15,24 @@
       </p>
       <ul class="contact__sns-btn--ul">
         <li class="contact__sns-btn--li">
-          <span class="fas fa-paper-plane fa-2x sns-btn__each"></span>
+          <span class="fas fa-paper-plane fa-lg sns-btn__each"></span>
           mihanken@gmail.com
         </li>
         <li class="contact__sns-btn--li">
           <a class="contact__sns-btn--li--link" href="https://www.instagram.com/ycu_mihanken/" target="_blank">
-            <span class="fab fa-instagram fa-2x sns-btn__each"></span>
+            <span class="fab fa-instagram fa-lg sns-btn__each"></span>
             @ycu_mihanken
           </a>
         </li>
         <li class="contact__sns-btn--li">
           <a class="contact__sns-btn--li--link" href="https://twitter.com/ycumihanken" target="_blank">
-            <span class="fab fa-twitter-square fa-2x sns-btn__each"></span>
+            <span class="fab fa-twitter-square fa-lg sns-btn__each"></span>
             @ycumihanken
           </a>
         </li>
         <li class="contact__sns-btn--li">
           <a class="contact__sns-btn--li--link" href="https://www.facebook.com/mihanken/" target="_blank">
-            <span class="fab fa-facebook fa-2x sns-btn__each"></span>
+            <span class="fab fa-facebook fa-lg sns-btn__each"></span>
             @mihanken
           </a>
         </li>
