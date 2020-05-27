@@ -48,13 +48,13 @@
                   </a>
                 </li>
                 <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://mihanken.com/contact">
-                    <i class="fab fa-twitter"></i>
+                  <a class="header--link_pc" href="https://twitter.com/ycumihanken">
+                    <i class="fab fa-twitter fa-lg"></i>
                   </a>
                 </li>
-                <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://mihanken.com/contact">
-                    <i class="fab fa-instagram"></i>
+                <li class="header__nav--item" style="margin-left: 5px;">
+                  <a class="header--link_pc" href="https://www.instagram.com/ycu_mihanken/">
+                    <i class="fab fa-instagram fa-lg"></i>
                   </a>
                 </li>
                 <!--以下ページは新歓期間のみの限定公開です-->
