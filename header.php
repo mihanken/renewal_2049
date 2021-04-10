@@ -48,7 +48,7 @@
                   </a>
                 </li>
                 <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://twitter.com/ycumihanken">
+                  <a class="header--link_pc" href="https://twitter.com/ycu_mihanken">
                     <i class="fab fa-twitter fa-lg"></i>
                   </a>
                 </li>
