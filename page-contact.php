@@ -1,3 +1,10 @@
+<?php
+    /**
+    * Template Name: contact page
+    */
+?>
+
+
 <?php get_header(); ?>
 <div class="hero__section contact__hero-img">
   <h1 class="page-title">

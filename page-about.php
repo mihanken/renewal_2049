@@ -1,3 +1,9 @@
+<?php
+    /**
+    * Template Name: about page
+    */
+?>
+
 <?php get_header(); ?>
 <div class="hero__section about__hero-img">
   <h1 class="page-title">
@@ -76,7 +82,7 @@
         <div class="section__flex-box--item">
           <figure>
             <a href="https://megalodon.jp/2020-0421-1228-00/https://zushi-hayama.keizai.biz:443/headline/137/" target="_blank">
-              <img class="flex-box__item--img a__img" src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/media__001.jpg" alt="逗子葉山経済新聞掲載写真">
+              <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/media__001.jpg" alt="逗子葉山経済新聞掲載写真">
             </a>
             <div class="frame__img">
             </div>
@@ -95,7 +101,7 @@
         <div class="section__flex-box--item">
           <figure>
             <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
-              <img class="flex-box__item--img a__img" src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/media__002.jpg" alt="タウンニュース掲載写真">
+              <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/media__002.jpg" alt="タウンニュース掲載写真">
             </a>
             <div class="frame__img">
             </div>

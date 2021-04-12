@@ -20,30 +20,30 @@
       <div class="header-wrapper">
         <div class="header-container">
           <div class="header__title">
-            <a href="https://mihanken.com">
-              <img class="header__logo header__logo-item" src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/header-logo.png">
+            <a href="/home">
+              <img class="header__logo header__logo-item" src="<?php echo get_template_directory_uri(); ?>/images/header-logo.png">
             </a>
           </div>
           <div class="header__menu">
             <div class="header__nav">
               <ul class="header__nav-ul">
                 <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://mihanken.com">
+                  <a class="header--link_pc" href="/home">
                     HOME
                   </a>
                 </li>
                 <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://mihanken.com/about">
+                  <a class="header--link_pc" href="/about">
                     ABOUT
                   </a>
                 </li>
                 <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://mihanken.com/works">
+                  <a class="header--link_pc" href="/works">
                     WORKS
                   </a>
                 </li>
                 <li class="header__nav--item">
-                  <a class="header--link_pc" href="https://mihanken.com/contact">
+                  <a class="header--link_pc" href="/contact">
                     CONTACT
                   </a>
                 </li>

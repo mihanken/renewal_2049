@@ -1,3 +1,9 @@
+<?php
+    /**
+    * Template Name: home page
+    */
+?>
+
 <?php get_header(); ?>
 <div class="hero__section index__hero-img">
   <!-- <h1 class="page-title">
