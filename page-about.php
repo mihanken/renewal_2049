@@ -87,7 +87,7 @@
             <div class="frame__img">
             </div>
             <figcaption class="flex-box__item--title">
-              <a href="https://megalodon.jp/2020-0421-1226-07/https://www.townnews.co.jp:443/0501/2018/08/10/444118.html" target="_blank">
+              <a href="https://zushi-hayama.keizai.biz/headline/137/" target="_blank">
                 横浜市立大学生制作の機関誌
                 <br>
                 「三浦半島ジャーナル」で…
@@ -98,6 +98,28 @@
             </figcaption>
           </figure>
         </div>
+        <div class="section__flex-box--item">
+          <figure>
+            <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
+              <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/media__002.jpg" alt="タウンニュース掲載写真">
+            </a>
+            <div class="frame__img">
+            </div>
+            <figcaption>
+              <figcaption class="flex-box__item--title">
+                <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
+                  学生が感じた文化の息遣い
+                  <br>
+                  横浜市大生が「三浦半島ジ…
+                </a>
+              </figcaption>
+              <figcaption class="flex-box__item--date">
+                2018.08.10　｜　MEDIA
+              </p>
+            </figcaption>
+          </figure>
+        </div>
+        <!-- flex-wrapしてから表示する -->
         <div class="section__flex-box--item">
           <figure>
             <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">

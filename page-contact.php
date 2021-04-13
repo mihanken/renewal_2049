@@ -31,9 +31,9 @@
           </a>
         </li>
         <li class="contact__sns-btn--li">
-          <a class="contact__sns-btn--li--link" href="https://twitter.com/ycumihanken" target="_blank">
+          <a class="contact__sns-btn--li--link" href="https://twitter.com/ycu_mihanken" target="_blank">
             <span class="fab fa-twitter-square fa-lg sns-btn__each"></span>
-            @ycumihanken
+            @ycu_mihanken
           </a>
         </li>
         <li class="contact__sns-btn--li">
