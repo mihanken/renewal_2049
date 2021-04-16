@@ -120,7 +120,7 @@
           </figure>
         </div>
         <!-- flex-wrapしてから表示する -->
-        <div class="section__flex-box--item">
+        <div class="section__flex-box--item mtop40">
           <figure>
             <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
               <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/media__002.jpg" alt="タウンニュース掲載写真">
