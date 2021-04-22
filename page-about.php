@@ -79,6 +79,28 @@
       </h2>
       <hr class="headline-bar">
       <div class="section__flex-box">
+        <!-- flex-wrapしてから表示する -->
+        <div class="section__flex-box--item">
+          <figure>
+            <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
+              <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/marche.jpeg" alt="タウンニュース掲載写真">
+            </a>
+            <div class="frame__img">
+            </div>
+            <figcaption>
+              <figcaption class="flex-box__item--title">
+                <a href="https://www.townnews.co.jp/0110/amp/2021/04/08/569216.html" target="_blank">
+                地元の食の魅力を発信
+                  <br>
+                  学生主催の｢ちいさな駅前…
+                </a>
+              </figcaption>
+              <figcaption class="flex-box__item--date">
+              2021.04.8　｜　MEDIA
+              </p>
+            </figcaption>
+          </figure>
+        </div>
         <div class="section__flex-box--item">
           <figure>
             <a href="https://megalodon.jp/2020-0421-1228-00/https://zushi-hayama.keizai.biz:443/headline/137/" target="_blank">
@@ -98,28 +120,6 @@
             </figcaption>
           </figure>
         </div>
-        <div class="section__flex-box--item">
-          <figure>
-            <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
-              <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/media__002.jpg" alt="タウンニュース掲載写真">
-            </a>
-            <div class="frame__img">
-            </div>
-            <figcaption>
-              <figcaption class="flex-box__item--title">
-                <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
-                  学生が感じた文化の息遣い
-                  <br>
-                  横浜市大生が「三浦半島ジ…
-                </a>
-              </figcaption>
-              <figcaption class="flex-box__item--date">
-                2018.08.10　｜　MEDIA
-              </p>
-            </figcaption>
-          </figure>
-        </div>
-        <!-- flex-wrapしてから表示する -->
         <div class="section__flex-box--item mtop40">
           <figure>
             <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
@@ -141,6 +141,7 @@
             </figcaption>
           </figure>
         </div>
+        
       </div>
     </div>
   </section>

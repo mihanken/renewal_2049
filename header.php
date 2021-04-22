@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/master.css">
+    <!-- 以下スタイルシートは bunzoが 20221年度新刊期のリニューアルに伴い、管理の簡略化のために追加したものです -->
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/add.css">
     <title>三浦半島研究会</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://mihanken.com/wp-content/themes/mihanken/js/fadein.js"></script>

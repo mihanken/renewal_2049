@@ -76,7 +76,6 @@ table {
   text-align: center;
   text-decoration: none;
   color: #FFF;
-  vertical-align: middle;
   line-height: 40px;
   margin: 50px auto 0;
   border: solid 1px #33B3CA;
@@ -215,7 +214,7 @@ body {
   position: relative;
   display: inline-block;
   text-decoration: none;
-  font-family: $open-sans;
+  font-family: "open-sans";
   letter-spacing: 1px;
   text-indent: 1px;
   font-size: 14px;
@@ -388,7 +387,7 @@ body {
       margin: auto; }
 
 .index__hero-img {
-  background: url(../images/index__hero.jpg)center -350px/cover no-repeat;}
+  background: url(../images/index__hero.jpg)center -350px/cover no-repeat;
 }
 
 .wrapper {
@@ -1273,7 +1272,7 @@ li {
     transition: transform 1s ease, opacity .9s ease; }
 
 .qanda__hero-img {
-  background: url(../images/qanda-image.jpeg)center center/cover no-repeat;}
+  background: url(../images/qanda-image.jpeg)center center/cover no-repeat;
 }
 
 @media (max-width: 481px) {
