@@ -11,11 +11,9 @@
   </h1>
 </div>
 <div class="works" style="width: 75%; display: flex; flex-wrap: wrap; margin: 150px auto 0; padding: 0 0 0 50px;">
-  <section class="works-section">
+  <a class="works-section" href="https://mihanken.com/maguro">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/maguro">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/maguro.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/maguro.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.12.21
         <br>
@@ -28,12 +26,10 @@
     <div class="title-for-sp">
       maguro/MC三浦大根
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/hamadaisai__2019" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/hamadaisai__2019">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/hamadaisai__2019.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/hamadaisai__2019.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.11.03~04
         <br>
@@ -46,12 +42,10 @@
     <div class="title-for-sp">
       2019年度浜大祭
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/nantan-ichiba" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/nantan-ichiba">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/nantan-ichiba.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/nantan-ichiba.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.08.24
         <br>
@@ -64,12 +58,10 @@
     <div class="title-for-sp">
       南端市場
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/yokosuka-story" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/yokosuka-story">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/yokosuka-story.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/yokosuka-story.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.05.13
         <br>
@@ -86,12 +78,10 @@
       <br>
       Future-funk remix
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/gunkou-cruise" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/gunkou-cruise">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/gunkou-cruise.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/gunkou-cruise.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.04.14
         <br>
@@ -104,12 +94,10 @@
     <div class="title-for-sp">
       軍港クルーズ
     </div>
-  </section>
-  <section class="works-section">
-    <figure class="works-wrapper">
-      <a href="https://mihanken.com/shinkan__2019">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/shinkan__2019.jpg" class="works-section__img"/>
-      </a>
+  </a>
+  <a href="https://mihanken.com/shinkan__2019" class="works-section">
+    <figure class="works-wrapper">      
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/shinkan__2019.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.04.05
         <br>
@@ -122,12 +110,10 @@
     <div class="title-for-sp">
       2019年度新歓ビラ
     </div>
-  </section>
-  <section class="works-section">
-    <figure class="works-wrapper">
-      <a href="https://mihanken.com/oncemore-miurahantou">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/oncemore-miurahantou.jpg" class="works-section__img"/>
-      </a>
+  </a>
+  <a href="https://mihanken.com/oncemore-miurahantou" class="works-section">
+    <figure class="works-wrapper">      
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/oncemore-miurahantou.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.03.27
         <br>
@@ -142,12 +128,10 @@
     <div class="title-for-sp">
       oncemore 三浦半島/MC三浦大根と野島ザファッカー
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/making-oncemore-miurahantou" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/making-oncemore-miurahantou">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/making-oncemore-miurahantou.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/making-oncemore-miurahantou.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2019.03.27
         <br>
@@ -164,12 +148,10 @@
       <br>
       -making-
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/journal__006-hayama" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/journal__006-hayama">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__006--hayama.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__006--hayama.jpg" class="works-section__img"/>  
       <figcaption class="works-section__text">
         2019.05.06
         <br>
@@ -184,12 +166,10 @@
     <div class="title-for-sp">
       三浦半島ジャーナル006
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/talk-event" class="works-section">
     <div class="works-wrapper">
-      <a href="https://mihanken.com/talk-event">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/talk-event.jpg" class="works-section__img " />
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/talk-event.jpg" class="works-section__img " />
       <div class="works-section__text">
         2019.02.06
         <br>
@@ -204,12 +184,10 @@
     <div class="title-for-sp">
       「自分の仕事は自分でつくる」
     </div>
-  </section>
-  <section class="works-section">
-    <figure class="works-wrapper">
-      <a href="https://mihanken.com/journal__005-zushi">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__005--zushi.jpg" class="works-section__img"/>
-      </a>
+  </a>
+  <a href="https://mihanken.com/journal__005-zushi" class="works-section">
+    <figure class="works-wrapper">  
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__005--zushi.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2018.12.05
         <br>
@@ -224,12 +202,11 @@
     <div class="title-for-sp">
       三浦半島ジャーナル005
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+
+  <a href="https://mihanken.com/hamadaisai__2018" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/hamadaisai__2018">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/hamadaisai__2018.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/hamadaisai__2018.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2018.11.03~04
         <br>
@@ -242,12 +219,10 @@
     <div class="title-for-sp">
       2018年度浜大祭
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/journal__004-hakkei" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/journal__004-hakkei">
         <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__004--hakkei.jpg" class="works-section__img"/>
-      </a>
       <figcaption class="works-section__text">
         2018.11.01
         <br>
@@ -264,12 +239,10 @@
     <div class="title-for-sp">
       三浦半島ジャーナル004
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/journal__003-misaki" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/journal__003-misaki">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__003--misaki.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__003--misaki.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2018.09.03
         <br>
@@ -284,12 +257,10 @@
     <div class="title-for-sp">
       三浦半島ジャーナル003
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/journal__002-yokosuka" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/journal__002-yokosuka">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__002--yokosuka.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__002--yokosuka.jpg" class="works-section__img"/>  
       <figcaption class="works-section__text">
         2018.06.30
         <br>
@@ -304,12 +275,10 @@
     <div class="title-for-sp">
       三浦半島ジャーナル002
     </div>
-  </section>
-  <section class="works-section">
+  </a>
+  <a href="https://mihanken.com/journal__001-hakkei" class="works-section">
     <figure class="works-wrapper">
-      <a href="https://mihanken.com/journal__001-hakkei">
-        <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__001--hakkei.jpg" class="works-section__img"/>
-      </a>
+      <img src="https://mihanken.com/wp-content/themes/mihanken/images/journal__001--hakkei.jpg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2018.04.44
         <br>
@@ -324,6 +293,6 @@
     <div class="title-for-sp">
       三浦半島ジャーナル001
     </div>
-  </section>
+  </a>
 </div>
 <?php get_footer(); ?>
