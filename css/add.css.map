@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAIA,KAAM;EACF,MAAM,EAAE,GAAG",
+"sources": ["add.scss"],
 "names": [],
 "file": "add.css"
 }
