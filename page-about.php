@@ -96,7 +96,7 @@
                 </a>
               </figcaption>
               <figcaption class="flex-box__item--date">
-              2021.04.8　｜　MEDIA
+              2021.04.08　｜　MEDIA
               </p>
             </figcaption>
           </figure>
