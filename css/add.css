@@ -1,4 +1,8 @@
 .next {
   height: 0px; }
 
+.works {
+  width: 80% !important;
+  justify-content: space-around; }
+
 /*# sourceMappingURL=add.css.map */
