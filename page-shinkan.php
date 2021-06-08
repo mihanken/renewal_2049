@@ -38,7 +38,7 @@
     </div>
 
     <div class="key-visual__frame__button" id="seemore">
-      <p>他の動画も見る</p>
+      <p class="btn">他の動画も見る</p>
     </div>
 
     <div class="key-visual__frame__more">
