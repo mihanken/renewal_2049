@@ -49,9 +49,9 @@
     </div>
   </a>
 
-  <!-- <a class="works-section" href="marche">
+  <a class="works-section" href="marche">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/hanto_marche.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
       2021.04.17
         <br>
@@ -64,7 +64,7 @@
     <div class="title-for-sp">
     ちいさな駅前半島マルシェ
     </div>
-  </a> -->
+  </a>
 
   <!-- <a class="works-section" href="bento">
     <figure class="works-wrapper">
