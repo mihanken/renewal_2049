@@ -66,9 +66,9 @@
     </div>
   </a>
 
-  <!-- <a class="works-section" href="bento">
+  <a class="works-section" href="bento">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/bento.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
       2021.04.17
         <br>
@@ -81,7 +81,7 @@
     <div class="title-for-sp">
     食卓八景弁当
     </div>
-  </a> -->
+  </a>
 
   <!-- <a class="works-section" href="journal__007-hakkei">
     <figure class="works-wrapper">
