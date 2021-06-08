@@ -32,9 +32,9 @@
 
 <!-- 以下、新規コンテンツ -->
 
-  <a class="works-section" href="marche">
+  <a class="works-section" href="zushi_promo">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/zushi_promo.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
       2021.04.22
         <br>
@@ -49,7 +49,7 @@
     </div>
   </a>
 
-  <a class="works-section" href="marche">
+  <!-- <a class="works-section" href="marche">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -64,9 +64,9 @@
     <div class="title-for-sp">
     ちいさな駅前半島マルシェ
     </div>
-  </a>
+  </a> -->
 
-  <a class="works-section" href="bento">
+  <!-- <a class="works-section" href="bento">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -81,9 +81,9 @@
     <div class="title-for-sp">
     食卓八景弁当
     </div>
-  </a>
+  </a> -->
 
-  <a class="works-section" href="journal__007-hakkei">
+  <!-- <a class="works-section" href="journal__007-hakkei">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -98,9 +98,9 @@
     <div class="title-for-sp">
     三浦半島ジャーナル007 「21世紀、金沢八景どこへゆく？」
     </div>
-  </a>
+  </a> -->
 
-  <a class="works-section" href="mogumogu">
+  <!-- <a class="works-section" href="mogumogu">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -115,9 +115,9 @@
     <div class="title-for-sp">
     もぐもぐ 金沢区のおいしさのひみつ
     </div>
-  </a>
+  </a> -->
 
-  <a class="works-section" href="miura_special_movie">
+  <!-- <a class="works-section" href="miura_special_movie">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -132,9 +132,9 @@
     <div class="title-for-sp">
     三浦にもっと行きたくなるSPECIAL MOVIES
     </div>
-  </a>
+  </a> -->
 
-  <a class="works-section" href="hoho">
+  <!-- <a class="works-section" href="hoho">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -149,9 +149,9 @@
     <div class="title-for-sp">
     三崎カルチャーマガジン「ホホ」
     </div>
-  </a>
+  </a> -->
   
-  <a class="works-section" href="shinkan">
+  <!-- <a class="works-section" href="shinkan">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -166,7 +166,7 @@
     <div class="title-for-sp">
     2020年度新歓動画
     </div>
-  </a>
+  </a> -->
 
 <!-- 以上、新規コンテンツ -->
 

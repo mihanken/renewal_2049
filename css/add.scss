@@ -17,3 +17,23 @@
     background-color: red;
     display: none;
 }
+
+
+// 以下はスライドショーのスタイル指定
+.ngg-browser-prev {
+    display: inline !important;
+    background-color: #33B3CA !important;
+}
+
+.ngg-browser-next {
+    display: inline !important;
+    background-color: #33B3CA !important;
+}
+
+.counter {
+    display: none;
+}
+
+h3 {
+    display: none;
+}
