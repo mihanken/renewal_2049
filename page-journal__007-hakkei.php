@@ -1,6 +1,6 @@
 <?php
     /**
-    * Template Name: 007 page
+    * Template Name: journal__007-hakkei page
     */
 ?>
 

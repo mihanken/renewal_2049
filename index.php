@@ -6,9 +6,6 @@
 
 <?php get_header(); ?>
 <div class="hero__section index__hero-img">
-  <!-- <h1 class="page-title">
-    HOME
-  </h1> -->
   <img class="home-key-visual" src="https://mihanken.com/wp-content/themes/mihanken/images/key-visual-logo.png" alt="">
 </div>
 <div class="wrapper">
@@ -36,13 +33,13 @@
       </h2>
       <hr class="headline-bar">
       <div class="home-works__container">
-        <a href="https://mihanken.com/journal__001--hakkei">
+        <a href="journal__001--hakkei">
           <img class="a__img hidden-img" src="https://mihanken.com/wp-content/themes/mihanken/images/journal__001--hakkei.jpg" alt="三浦半島ジャーナル1金沢八景号">
         </a>
-        <a href="https://mihanken.com/journal__002--yokosuka">
+        <a href="journal__002--yokosuka">
           <img class="a__img" src="https://mihanken.com/wp-content/themes/mihanken/images/journal__002--yokosuka.jpg" alt="三浦半島ジャーナル2横須賀号">
         </a>
-        <a href="https://mihanken.com/journal__003--misaki">
+        <a href="journal__003--misaki">
           <img class="a__img hidden-img" src="https://mihanken.com/wp-content/themes/mihanken/images/journal__003--misaki.jpg" alt="三浦半島ジャーナル3三崎号">
         </a>
       </div>

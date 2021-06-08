@@ -82,7 +82,7 @@
         <!-- flex-wrapしてから表示する -->
         <div class="section__flex-box--item">
           <figure>
-            <a href="https://www.townnews.co.jp/0501/2018/08/10/444118.html" target="_blank">
+            <a href="https://www.townnews.co.jp/0110/amp/2021/04/08/569216.html" target="_blank">
               <img class="flex-box__item--img a__img" src="<?php echo get_template_directory_uri(); ?>/images/marche.jpeg" alt="タウンニュース掲載写真">
             </a>
             <div class="frame__img">

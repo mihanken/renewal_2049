@@ -83,7 +83,7 @@
     </div>
   </a>
 
-  <a class="works-section" href="コンテンツのリンク">
+  <a class="works-section" href="journal__007-hakkei">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -100,7 +100,7 @@
     </div>
   </a>
 
-  <a class="works-section" href="コンテンツのリンク">
+  <a class="works-section" href="mogumogu">
     <figure class="works-wrapper">
       <img src="サムネ" class="works-section__img"/>
       <figcaption class="works-section__text">
