@@ -117,9 +117,9 @@
     </div>
   </a> -->
 
-  <!-- <a class="works-section" href="miura_special_movie">
+  <a class="works-section" href="miura_special_movie">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/specialmovies.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
       2020.10.11
         <br>
@@ -132,7 +132,7 @@
     <div class="title-for-sp">
     三浦にもっと行きたくなるSPECIAL MOVIES
     </div>
-  </a> -->
+  </a>
 
   <!-- <a class="works-section" href="hoho">
     <figure class="works-wrapper">
@@ -151,9 +151,9 @@
     </div>
   </a> -->
   
-  <!-- <a class="works-section" href="shinkan">
+  <a class="works-section" href="shinkan">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/shinkansamune.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
         2020.04.12-18
         <br>
@@ -166,7 +166,7 @@
     <div class="title-for-sp">
     2020年度新歓動画
     </div>
-  </a> -->
+  </a>
 
 <!-- 以上、新規コンテンツ -->
 
