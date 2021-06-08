@@ -1,6 +1,6 @@
 <?php
     /**
-    * Template Name: special movies page
+    * Template Name: miura_special_movie page
     */
 ?>
 

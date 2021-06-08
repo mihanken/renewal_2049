@@ -1,3 +1,9 @@
+<?php
+    /**
+    * Template Name: hamadaisai__2018 page
+    */
+?>
+
 <?php get_header(); ?>
 <div class="hero__section works__hero-img">
   <h1 class="page-title">
@@ -19,9 +25,7 @@
   </div>
   <div class="works-single__container">
     <div class="works-single__container__content">
-      <img src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/hamadaisai__2018.jpg" class="works-image"/>
-      <!-- <iframe src="https://vimeo.com/297964762" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-      </iframe> -->
+      <img src="<?php echo get_template_directory_uri(); ?>/images/hamadaisai__2018.jpg" class="works-image"/>
     </div>
     <div class="works-single__container__txt text">
       <p>

@@ -1,6 +1,6 @@
 <?php
     /**
-    * Template Name: yokosuka-story page
+    * Template Name: zushi_promo page
     */
 ?>
 
@@ -14,24 +14,23 @@
   <div class="works-single__heading__flex-box">
     <div class="works-single__heading__title text">
       <h2>
-        横須賀ストーリー -Future-funk remix-
+      半島アド第1弾 逗子編
       </h2>
     </div>
   </div>
   <p class="works-single__heading__date">
-    2019年5月13日公開
+    2020年04月22日
   </p>
   <div class="works-single__container">
     <div class="works-single__container__content">
-      <iframe src="https://player.vimeo.com/video/335611727" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-      </iframe>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/zushi_promo.jpeg" alt="半島アド第1弾 逗子編">
     </div>
     <div class="works-single__container__txt">
       <p class="text">
-        三浦半島エリアである横須賀出身で有名な、山口百恵の「横須賀ストーリー」をFuture Funk調にRemixしたMVを制作。
+      横浜市立大学学内向け、学生を京急下り列車に乗せ、三浦半島へ足を運んでもらうプロモーション企画「半島アド」の第1弾。
       </p>
       <p class="text">
-        三浦半島研究会としてはじめての本格的な楽曲制作となりました。
+      掲示開始予定と感染拡大が完全一致したことにより企画は頓挫してしまいましたが、状況が改善し次第掲示する予定です。
       </p>
     </div>
     <a href="https://mihanken.com/works" class="btn">

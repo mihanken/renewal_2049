@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/add.css">
     <title>三浦半島研究会</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script type="text/javascript" src="https://mihanken.com/wp-content/themes/mihanken/js/fadein.js"></script>
     <script type="text/javascript" src="https://mihanken.com/wp-content/themes/mihanken/js/hamburger.js"></script>
     <?php wp_head(); ?>

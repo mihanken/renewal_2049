@@ -1,3 +1,9 @@
+<?php
+    /**
+    * Template Name: maguro page
+    */
+?>
+
 <?php get_header(); ?>
 <div class="hero__section works__hero-img">
   <h1 class="page-title">

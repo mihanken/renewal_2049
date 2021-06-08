@@ -1,3 +1,9 @@
+<?php
+    /**
+    * Template Name: gunkou-cruise page
+    */
+?>
+
 <?php get_header(); ?>
 <div class="hero__section works__hero-img">
   <h1 class="page-title">
@@ -17,7 +23,7 @@
   </p>
   <div class="works-single__container">
     <div class="works-single__container__content">
-      <img src="<?php echo home_url(); ?>/wp-content/themes/mihanken/images/gunkou-cruise.jpg">
+      <img src="<?php echo get_template_directory_uri(); ?>/images/gunkou-cruise.jpg">
     </div>
     <div class="works-single__container__txt text">
       <p>

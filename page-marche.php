@@ -23,7 +23,7 @@
   </p>
   <div class="works-single__container">
     <div class="works-single__container__content">
-      <img src="<?php echo get_template_directory_uri(); ?>/images/bento.jpeg" alt="三浦半島研究会2019年度新歓ビラ">
+      <img src="<?php echo get_template_directory_uri(); ?>/images/hanto_marche.jpeg" alt="ちいさな！駅前半島マルシェ">
     </div>
     <div class="works-single__container__txt">
       <p class="text">
