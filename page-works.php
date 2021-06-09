@@ -100,9 +100,9 @@
     </div>
   </a> -->
 
-  <!-- <a class="works-section" href="mogumogu">
+  <a class="works-section" href="mogumogu">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/1_cover.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
       2021.03.21
         <br>
@@ -115,7 +115,7 @@
     <div class="title-for-sp">
     もぐもぐ 金沢区のおいしさのひみつ
     </div>
-  </a> -->
+  </a>
 
   <a class="works-section" href="miura_special_movie">
     <figure class="works-wrapper">
@@ -453,6 +453,8 @@
     </div>
   </a>
 
-  <!-- <div class="works-section"></div> -->
+  <div class="works-section"></div>
+  <div class="works-section"></div>
+  
 </div>
 <?php get_footer(); ?>
