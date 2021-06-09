@@ -22,4 +22,14 @@
 h3 {
   display: none; }
 
+@media (max-width: 1000px) {
+  .pc-viewer {
+    display: none; } }
+
+.sp-viewer {
+  display: none; }
+  @media (max-width: 1000px) {
+    .sp-viewer {
+      display: block; } }
+
 /*# sourceMappingURL=add.css.map */

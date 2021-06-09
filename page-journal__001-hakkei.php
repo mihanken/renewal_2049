@@ -22,8 +22,11 @@
     2018年4月14日発行
   </p>
   <div class="works-single__container">
-    <div class="works-single__container__content">
+    <div class="works-single__container__content  pc-viewer">
       <?php echo do_shortcode('[ngg src="galleries" ids="5" display="basic_imagebrowser"]'); ?>
+    </div>
+    <div class="works-single__container__content  sp-viewer">
+      <?php echo do_shortcode('[ngg src="galleries" ids="12" display="basic_imagebrowser"]'); ?>
     </div>
     <div class="works-single__container__txt text">
       <p>

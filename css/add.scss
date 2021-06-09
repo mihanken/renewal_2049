@@ -1,6 +1,4 @@
-// .ngg-imagebrowser.default-view, .ngg-imagebrowser-nav, .back, .ngg-imagebrowser, .default-view, .ngg-imagebrowser-nav, .next {
-//     height: 0px;
-// }
+@import "breakpoint.scss";
 
 .next {
     height: 0px;
@@ -36,4 +34,19 @@
 
 h3 {
     display: none;
+}
+
+// 以下はビューワーの切り替え設定
+
+.pc-viewer {
+    @include tablet {
+        display: none;
+    }
+}
+
+.sp-viewer {
+    display: none;
+    @include tablet {
+        display: block;
+    }
 }
