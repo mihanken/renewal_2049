@@ -38,13 +38,13 @@ h3 {
 
 // 以下はビューワーの切り替え設定
 
-.pc-viewer {
+.pc {
     @include tablet {
         display: none;
     }
 }
 
-.sp-viewer {
+.sp {
     display: none;
     @include tablet {
         display: block;

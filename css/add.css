@@ -23,13 +23,13 @@ h3 {
   display: none; }
 
 @media (max-width: 1000px) {
-  .pc-viewer {
+  .pc {
     display: none; } }
 
-.sp-viewer {
+.sp {
   display: none; }
   @media (max-width: 1000px) {
-    .sp-viewer {
+    .sp {
       display: block; } }
 
 /*# sourceMappingURL=add.css.map */

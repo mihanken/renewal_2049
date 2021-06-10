@@ -32,20 +32,20 @@
 
 <!-- 以下、新規コンテンツ -->
 
-  <a class="works-section" href="zushi_promo">
+  <a class="works-section" href="experiment">
     <figure class="works-wrapper">
-      <img src="<?php echo get_template_directory_uri(); ?>/images/zushi_promo.jpeg" class="works-section__img"/>
+      <img src="" class="works-section__img"/>
       <figcaption class="works-section__text">
-      2021.04.22
+      0000.00.00
         <br>
-        半島アド第1弾 逗子編
+        実験用ページ
       </figcaption>
     </figure>
     <div class="category">
-    PROMO
+    EXPERIMENT
     </div>
     <div class="title-for-sp">
-    半島アド第1弾 逗子編
+    実験用ページ
     </div>
   </a>
 
@@ -150,6 +150,23 @@
     三崎カルチャーマガジン「ホホ」
     </div>
   </a> -->
+
+  <a class="works-section" href="zushi_promo">
+    <figure class="works-wrapper">
+      <img src="<?php echo get_template_directory_uri(); ?>/images/zushi_promo.jpeg" class="works-section__img"/>
+      <figcaption class="works-section__text">
+      2020.04.22
+        <br>
+        半島アド第1弾 逗子編
+      </figcaption>
+    </figure>
+    <div class="category">
+    PROMO
+    </div>
+    <div class="title-for-sp">
+    半島アド第1弾 逗子編
+    </div>
+  </a>
   
   <a class="works-section" href="shinkan">
     <figure class="works-wrapper">
@@ -453,8 +470,8 @@
     </div>
   </a>
 
-  <div class="works-section"></div>
-  <div class="works-section"></div>
-  
+  <div class="works-section pc"></div>
+  <div class="works-section pc"></div>
+
 </div>
 <?php get_footer(); ?>
