@@ -24,7 +24,7 @@
   <div class="works-single__container">
   <div class="works-single__container__content viewport">
       <div class="works-single__container__content pc">
-        <?php echo do_shortcode('[ngg src="galleries" ids="5" display="basic_imagebrowser"]'); ?>
+        <?php echo do_shortcode('[ngg src="galleries" ids="2" display="basic_imagebrowser"]'); ?>
       </div>
       <div class="swiper-container sp">
         <div class="swiper-wrapper">
