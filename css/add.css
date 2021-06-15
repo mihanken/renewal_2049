@@ -32,4 +32,40 @@ h3 {
     .sp {
       display: block; } }
 
+@media (max-width: 1000px) {
+  .pc-slide {
+    display: none; } }
+
+.sp-slide {
+  display: none; }
+  @media (max-width: 1000px) {
+    .sp-slide {
+      display: block; } }
+
+.swiper-button-prev:after, .swiper-button-next:after {
+  display: block; }
+  @media (max-width: 1000px) {
+    .swiper-button-prev:after, .swiper-button-next:after {
+      display: none; } }
+
+@media (max-width: 1000px) {
+  .swiper-container {
+    width: 80vw; } }
+
+@media (max-width: 1000px) {
+  .works-single__wrapper {
+    width: 80vw; } }
+
+@media (max-width: 1000px) {
+  .works-single__container {
+    margin: 64px auto;
+    width: 80vw; } }
+
+@media (max-width: 1000px) {
+  .swiper-slide__img {
+    height: auto; } }
+
+.header-wrapper {
+  z-index: 2; }
+
 /*# sourceMappingURL=add.css.map */

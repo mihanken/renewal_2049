@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/master.css">
     <!-- 以下スタイルシートは bunzoが 20221年度新刊期のリニューアルに伴い、管理の簡略化のために追加したものです -->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/add.css">
+    <!-- Swiperスタイルシートです -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css" />
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
     <title>三浦半島研究会</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>

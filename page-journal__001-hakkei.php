@@ -22,12 +22,43 @@
     2018年4月14日発行
   </p>
   <div class="works-single__container">
-    <div class="works-single__container__content">
-      <?php echo do_shortcode('[ngg src="galleries" ids="1" display="basic_imagebrowser"]'); ?>
+  <div class="works-single__container__content viewport">
+      <div class="works-single__container__content pc">
+        <?php echo do_shortcode('[ngg src="galleries" ids="5" display="basic_imagebrowser"]'); ?>
+      </div>
+      <div class="swiper-container sp">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p1.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p2.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p3.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p4.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p5.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p6.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p7.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/001/p8.jpeg" alt="" class="swiper-slide__img">
+          </div>
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
     </div>
-    <div class="works-single__container__content">
-      <?php echo do_shortcode('[ngg src="galleries" ids="12" display="basic_imagebrowser"]'); ?>
-    </div>
+    
     <div class="works-single__container__txt text">
       <p>
         学生街、京浜地区のベッドタウン、漁師町、そしてかつての別荘地…。多様な顔を持つ金沢八景を愛した人は数知れない。
@@ -45,3 +76,4 @@
   </div>
 </div>
 <?php get_footer(); ?>
+

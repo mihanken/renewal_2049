@@ -1,0 +1,10 @@
+{
+  "name": "flipsnap",
+  "main": "flipsnap.js",
+  "repository": "hokaccha/js-flipsnap",
+  "description": "Prov  ides UI of snap and slide",
+  "version": "0.6.3",
+  "keywords": [ "mobile", "ui" ],
+  "scripts": [ "flipsnap.js" ],
+  "license": "MIT"
+}

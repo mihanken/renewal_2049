@@ -32,7 +32,7 @@
 
 <!-- 以下、新規コンテンツ -->
 
-  <a class="works-section" href="experiment">
+  <!-- <a class="works-section" href="experiment">
     <figure class="works-wrapper">
       <img src="" class="works-section__img"/>
       <figcaption class="works-section__text">
@@ -47,7 +47,7 @@
     <div class="title-for-sp">
     実験用ページ
     </div>
-  </a>
+  </a> -->
 
   <a class="works-section" href="marche">
     <figure class="works-wrapper">
@@ -83,9 +83,9 @@
     </div>
   </a>
 
-  <!-- <a class="works-section" href="journal__007-hakkei">
+  <a class="works-section" href="journal__007-hakkei">
     <figure class="works-wrapper">
-      <img src="サムネ" class="works-section__img"/>
+      <img src="<?php echo get_template_directory_uri(); ?>/images/journal__008--hakkei.jpeg" class="works-section__img"/>
       <figcaption class="works-section__text">
       2021.03.31
         <br>
@@ -98,7 +98,7 @@
     <div class="title-for-sp">
     三浦半島ジャーナル007 「21世紀、金沢八景どこへゆく？」
     </div>
-  </a> -->
+  </a>
 
   <a class="works-section" href="mogumogu">
     <figure class="works-wrapper">
@@ -470,8 +470,7 @@
     </div>
   </a>
 
-  <div class="works-section pc"></div>
-  <div class="works-section pc"></div>
+  <div class="works-section"></div>
 
 </div>
 <?php get_footer(); ?>
