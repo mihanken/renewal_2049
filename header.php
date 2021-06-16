@@ -102,14 +102,14 @@
               </li>
               <li>
                 <a href="/contact">
-                  CONATACT
+                  CONTACT
                 </a>
               </li>
-              <li>
+              <!-- <li>
                 <a href="/qanda">
                   新入生向けQ&A
                 </a>
-              </li>
+              </li> -->
             </ul>
           </nav>
         </div>

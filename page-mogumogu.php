@@ -26,7 +26,7 @@
       <div class="works-single__container__content pc">
         <?php echo do_shortcode('[ngg src="galleries" ids="10" display="basic_imagebrowser"]'); ?>
       </div>
-      <div class="swiper-container sp">
+      <div class="swiper-container sp" dir="rtl">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/mogumogu/p1.jpeg" alt="" class="swiper-slide__img">
