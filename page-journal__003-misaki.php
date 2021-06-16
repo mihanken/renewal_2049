@@ -32,46 +32,46 @@
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p1.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p2.jpeg" alt="" class="swiper-slide__img">
-          </div>
-          <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p3.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p4.jpeg" alt="" class="swiper-slide__img">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p2.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p5.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p6.jpeg" alt="" class="swiper-slide__img">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p4.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p7.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p8.jpeg" alt="" class="swiper-slide__img">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p6.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p9.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p10.jpeg" alt="" class="swiper-slide__img">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p8.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p11.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p12.jpeg" alt="" class="swiper-slide__img">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p10.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p13.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
-            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p14.jpeg" alt="" class="swiper-slide__img">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p12.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p15.jpeg" alt="" class="swiper-slide__img">
+          </div>
+          <div class="swiper-slide">
+            <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p14.jpeg" alt="" class="swiper-slide__img">
           </div>
           <div class="swiper-slide">
             <img src="<?php echo get_template_directory_uri(); ?>/journal_sp/003/p16.jpeg" alt="" class="swiper-slide__img">
